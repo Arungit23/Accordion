@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(to bottom,#33ccff 0%, #ff99cc 100%);
+}
+
+.container{
+  width: 90vw;
+  margin: 5rem auto;
+  padding: 2.5rem;
+  background-color: white;
+  max-width: 800px;
+  border-radius: .25rem;
+  box-sizing: border-box;
+}
+.container h1{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.container{
+  font-family: 'Times New Roman', Times, serif;
+}
